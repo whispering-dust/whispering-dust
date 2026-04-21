@@ -26,7 +26,7 @@
 
 我会在这里记录一些思考与技术笔记：
 
-👉 https://whispering-dust.github.io/
+🌐 https://whispering-dust.github.io/
 
 ---
 
@@ -39,7 +39,6 @@
 
 ### 📫 Contact
 
-- 🌐 Blog: https://whispering-dust.github.io/
 - 📧 Email: mapleleaf.y@qq.com
 
 ⭐ 如果你也在做 Agent 相关研究，欢迎来聊！
